@@ -119,3 +119,7 @@ Untuk pengembangan berikutnya, saya berencana menambahkan:
 Project ini dibuat sebagai project portfolio pertama dalam perjalanan saya mempelajari Data Analytics.
 
 Saya menggunakan data aktivitas saya sendiri sebagai driver online untuk berlatih mengubah data mentah menjadi insight yang dapat digunakan untuk mendukung pengambilan keputusan.
+
+## Dashboard preview
+<img width="293" height="421" alt="image" src="https://github.com/user-attachments/assets/063592db-f038-4a0b-bf43-00f57a909a89" />
+
